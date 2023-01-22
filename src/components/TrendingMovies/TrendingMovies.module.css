@@ -1,0 +1,8 @@
+.movieList {
+  list-style-type: square;
+  text-decoration: none;
+}
+
+.movieList li {
+  padding: 5px;
+}

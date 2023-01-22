@@ -1,0 +1,22 @@
+.form {
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.input {
+  width: 25%;
+  height: 20px;
+}
+
+.button {
+  height: 26px;
+}
+
+.movieList {
+  list-style-type: square;
+  text-decoration: none;
+}
+
+.movieList li {
+  padding: 5px;
+}
