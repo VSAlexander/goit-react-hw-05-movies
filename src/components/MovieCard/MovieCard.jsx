@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 import css from './MovieCard.module.css';
 
 function getGenres(array) {
@@ -34,3 +35,7 @@ export function MovieCard({ movie }) {
     </>
   );
 }
+
+MovieCard.propTypes = {
+  movie: PropTypes.object,
+};
