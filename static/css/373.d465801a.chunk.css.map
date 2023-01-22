@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/373.d465801a.chunk.css","mappings":"AAAA,iCACE,sBAAuB,CACvB,oBACF,CAEA,oCACE,WACF","sources":["components/TrendingMovies/TrendingMovies.module.css"],"sourcesContent":[".movieList {\n  list-style-type: square;\n  text-decoration: none;\n}\n\n.movieList li {\n  padding: 5px;\n}\n"],"names":[],"sourceRoot":""}
